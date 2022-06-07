@@ -1,0 +1,13 @@
+# Words(strings)
+print ("Hi there, i am a string !")
+print ('Hello world!')
+print ("123 Oak tree Lane")
+print ("(267)555-1234")
+print ("18901-3384")
+print ("Mary's dog said wolf")
+print ('Mary''s dog said wolf')
+print ('The dog of mary said "Wolf"')
+
+print ("mary\'s dog said wolf")
+print("mary\'s dog said \"wolf\" ")
+print("The old pond\nAfrog jumped in\nkerplunk")
