@@ -30,9 +30,9 @@ int(x) converts x to an integer type
 max(x , y, z.....) takes any number of numeric arguments and returns whichever is largest
 min(x , y, z.....) takes any number of numeric arguments and returns whichever is smallest
 oct(x)              convets x to an octal number. prefixed 0o
-round (x, y) rounds x to y number of decimal points
-str(x) converts x number to a string datatype
-type(x) returns a string containing the datatype of x.
+round (x, y)        rounds x to y number of decimal points
+str(x)              converts x number to a string datatype
+type(x)             returns a string containing the datatype of x.
 
 """
 #Example
